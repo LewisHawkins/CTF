@@ -7,7 +7,7 @@ It was literally just a 2 and a half minute video. We watched it a lot, and afte
 # Step 2 - Viewing the anomalies
 
 I downloaded Sonic Visualiser, and used it to open the .wav file. It looked like the following:
-- image 1
+![Image 1](image1.JPG)
 
 This was just the wave, so a spectrogram was added. This resulted in darker, red vertical bars being revealed in parts of the track where the anomalies could be heard. After changing the colour scheme to make this more clear, it looked like this:
 - image 2
