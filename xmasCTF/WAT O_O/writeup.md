@@ -29,5 +29,5 @@ Repeating this process all the way bag to the beginning of the flag format X-MAS
 
 We enjoyed completing this challenge and ended up doing so just 5 hours 41 minutes after the challenge's release. This was made even sweeter by the fact that we were the first team to submit the flag. This awarded our team, 'C♭'/'C Flat', the Xenon award:
 
-![Image 4](image4.JPG)
-![Image 5](image5.JPG)
+![Image 4](image4.png)
+![Image 5](image5.png)
